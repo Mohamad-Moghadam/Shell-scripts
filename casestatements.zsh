@@ -1,4 +1,4 @@
-#!/bin/zsh\
+#!/bin/zsh
 # Author: Moe
 # Date: 07/11/2025
 # Description: just a simple shell so that I could run to practice case statements
