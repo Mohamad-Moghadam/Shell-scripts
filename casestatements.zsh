@@ -19,7 +19,7 @@ echo
 a) date;;
 b) ls;;
 c) who;;
-d) uptime::
+d) uptime;;
 *) echo invalide choice - Bye.
 
 	esac
